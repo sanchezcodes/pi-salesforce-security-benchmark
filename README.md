@@ -112,7 +112,7 @@ This package follows a composable hybrid architecture:
 - **Agents** provide isolated workflows with their own context windows
 - Each layer works independently — use only what you need
 
-See [ARCHITECTURE_EVALUATION.md](ARCHITECTURE_EVALUATION.md) for the full design rationale.
+See [docs/ARCHITECTURE_EVALUATION.md](docs/ARCHITECTURE_EVALUATION.md) for the full design rationale.
 
 ## Updating
 
