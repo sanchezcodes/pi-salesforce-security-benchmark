@@ -1,0 +1,7 @@
+node_modules/
+.firecrawl/
+.DS_Store
+tsconfig.json
+*.js
+*.d.ts
+*.js.map

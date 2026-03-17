@@ -1,0 +1,31 @@
+{
+  "name": "salesforce-security-benchmark",
+  "version": "0.1.0",
+  "description": "Salesforce Security Benchmark Suite (SBS) — automated security auditing for Salesforce orgs via pi coding agent extensions, skills, and prompt templates.",
+  "keywords": [
+    "pi-package",
+    "salesforce",
+    "security",
+    "benchmark",
+    "audit"
+  ],
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanchezcodes/pi-salesforce-security-benchmark.git"
+  },
+  "pi": {
+    "extensions": [
+      "./extensions"
+    ],
+    "skills": [
+      "./skills"
+    ],
+    "agents": [
+      "./agents"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  }
+}
