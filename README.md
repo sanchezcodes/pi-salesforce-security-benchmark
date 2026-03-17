@@ -7,13 +7,13 @@ When you work on Salesforce projects, the agent automatically detects security-r
 ## Installation
 
 ```bash
-pi install git:github.com/sanchezcodes/salesforce-security-benchmark
+pi install git:github.com/sanchezcodes/pi-salesforce-security-benchmark
 ```
 
 Or project-local:
 
 ```bash
-pi install git:github.com/sanchezcodes/salesforce-security-benchmark -l
+pi install git:github.com/sanchezcodes/pi-salesforce-security-benchmark -l
 ```
 
 ### Agent Workflows (Optional)
